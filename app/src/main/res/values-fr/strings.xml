@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_album">Chargement de l\'album ...</string>
+    <string name="loading">Chargement ...</string>
+    <string name="title">titre</string>
+    <string name="loading_photos">Chargement des photos ...</string>
+    <string name="errorLoading">Une erreur est suvenue!</string>
+</resources>
